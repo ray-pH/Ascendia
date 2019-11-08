@@ -1,0 +1,12 @@
+wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall
+wall,0,0,0,0,0,0,0,0,0,0,0,wall
+wall,0,0,0,0,0,0,0,0,0,0,0,wall
+wall,0,0,0,0,0,0,0,0,0,0,0,rightDoor
+wall,0,0,0,0,0,0,0,0,0,0,0,wall
+wall,0,0,0,0,0,0,0,0,0,0,0,wall
+wall,0,0,0,0,0,0,0,0,0,0,0,wall
+wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall
+top,6,1,,,,,,,,,,
+bottom,6,6,,,,,,,,,,
+left,1,4,,,,,,,,,,
+right,11,3,,,,,,,,,,
